@@ -1,0 +1,13 @@
+MONGODB 
+mongodb+srv://alemao:<password>@cluster0.xsk0uzw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+mongodb+srv://alemao:Alemao010101@cluster0.xsk0uzw.mongodb.net/
+
+
+Você pode também fazer login utilizando seu email e sua senha temporária através do link: https://app.herocode.com.br/login
+
+Sua senha temporária: 76480383
+
+Semana do Herói 1 (completa)
+https://herocodebr.notion.site/RoadMap-Semana-do-Her-i-Edi-o-1-539aaec6d4ac4340bb7cef2764078528
+
